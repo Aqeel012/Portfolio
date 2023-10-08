@@ -1343,9 +1343,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-shrink: 0;
   width: 1440px;
   height: 846px;
-  flex-shrink: 0;
   fill: var(--primary-b-400, #6070FF);
   background-color: white;
   background-image: url(./d_contatcform_background.jpg);
