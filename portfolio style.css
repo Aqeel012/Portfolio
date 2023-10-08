@@ -777,7 +777,6 @@
   text-align: center;
   border: 1px solid transparent;
   border-radius: 8px;
-  /* Body / 3 - Bolder */
   font-family: Poppins,sans-serif;
   font-size: 15px;
   font-style: normal;
@@ -1219,12 +1218,8 @@
   gap: 10px;
   border-radius: 8px;
   border: 1px solid var(--primary-b-400, #6070FF);
-  animation: background-color 0.3 ease;
-
   color: var(--primary-b-500, #396DF2);
   text-align: center;
-  
-  /* Theme 1 / Button Normal  */
   font-family: Poppins,sans-serif;
   font-size: 17px;
   font-style: normal;
@@ -1238,7 +1233,6 @@
   background-color: #396DF2;
   color:white;
 }
-
 
 .skills-container{
   display: inline-flex;
@@ -1494,8 +1488,5 @@ button:hover{
     color: white;
     border: 4px solid white;
 }
-/* 
-animation and transition */
-
 
 }
